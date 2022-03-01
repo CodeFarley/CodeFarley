@@ -4,7 +4,7 @@
 <h3 align="left">I'm a semi self-taught semi bootcamp graduate software developer, aspiring software Developer with an avid interest in exploring Cloud computing concept. 
   I am passionate about encouraging others (women in particular) to get in the industry.</h3>
   
-<img align="right" alt="Coding" width"400" scr="https://dribbble.com/shots/6329798-Tech-Girl">
+
 
 
 - 🔭 I’m currently working on **#TheUltimateAPIChallenge**
