@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Azure, Python, C# and MySQL**
+- 💬 Ask me about **Azure, Python, C# and MySQL PostgreSQL,  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
