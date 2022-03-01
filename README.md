@@ -7,11 +7,15 @@
 
 
 
+- 🏡  **UK** 
 - 🔭 I’m currently working on **#TheUltimateAPIChallenge**
 
-- 🌱 I’m currently learning **JavaScript**
+- 📖 I’m currently learning **JavaScript **
 
 - 💬 Ask me about **Azure, Python, C# and MySQL PostgreSQL,  **
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
