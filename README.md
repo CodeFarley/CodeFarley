@@ -4,7 +4,14 @@
 <h3 align="left">I'm a semi self-taught semi bootcamp graduate software developer, aspiring software Developer with an avid interest in exploring Cloud computing concept. 
   I am passionate about encouraging others (women in particular) to get in the industry.</h3>
   
+👨🏻‍💻  About Me
+💡   Hello everyone,I'm engineering student. Love to code , exploring Data Science these days. I enjoy collaborating with people on works of similar interest.
 
+🌱  I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.
+✍️  Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.
+💬  Feel free to reach out to me for general consulting, or discussions
+✉️  You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!
+📄  You can check my Resume for more details about my work experience.
 
 
 - 🏡  **UK** 
