@@ -3,8 +3,8 @@
 <h1 align="center">Hi, Thank You for Visiting 👋</h1>
   
 👨🏻‍💻  About Me
-💡   Hello everyone,I'm engineering student. Love to code , exploring Data Science these days. I enjoy collaborating with people on works of similar interest.
-
+💡  Hello everyone,I'm engineering student. Love to code , exploring Data Science these days. 
+     I enjoy collaborating with people on works of similar interest.
 🌱  I'm on track for learning more about Cloud Technology, Machine learning and Data Science.
 ✍️  Apart from technical interests, I like photography ,backyard gardening, reading novels, and badminton.
 💬  Feel free to reach out to me for general consulting, or discussions
