@@ -19,7 +19,7 @@
 
 
 - 🏡  **UK** 
-- 
+
 - 🔭 I’m currently working on **#TheUltimateAPIChallenge**
 
 - 📖 I’m currently learning **JavaScript and Linux **
