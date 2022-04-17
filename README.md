@@ -1,27 +1,23 @@
 
 
-<h1 align="center">Hi, I'm Shaunna Farley (aka Obi in the Code)👋</h1>
-<h3 align="left">I'm a semi self-taught semi bootcamp graduate software developer, aspiring software Developer with an avid interest in exploring Cloud computing concept. 
-  I am passionate about encouraging others (women in particular) to get in the industry.</h3>
+<h1 align="center">Hi, Thank You for Visiting 👋</h1>
   
 👨🏻‍💻  About Me
 💡   Hello everyone,I'm engineering student. Love to code , exploring Data Science these days. I enjoy collaborating with people on works of similar interest.
 
-🌱  I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.
-✍️  Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.
+🌱  I'm on track for learning more about Cloud Technology, Machine learning and Data Science.
+✍️  Apart from technical interests, I like photography ,backyard gardening, reading novels, and badminton.
 💬  Feel free to reach out to me for general consulting, or discussions
-✉️  You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!
+✉️  You can email me at inthecode@tutanota.com. I'll try to respond as soon as possible!
 📄  You can check my Resume for more details about my work experience.
 
 
 - 🏡  **UK** 
 - 🔭 I’m currently working on **#TheUltimateAPIChallenge**
 
-- 📖 I’m currently learning **JavaScript **
+- 📖 I’m currently learning **JavaScript and Linux **
 
 - 💬 Ask me about **Azure, Python, C# and MySQL PostgreSQL,  **
-
-
 
 
 <h3 align="left">Connect with me:</h3>
