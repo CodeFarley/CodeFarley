@@ -22,9 +22,11 @@
 
 - 🔭 I’m currently working on my project portfolio (currently offline due to being under construction) to showcase my coding skills to potential employers and in the process of revamping my GitHub profile
 
-- 📖 I’m currently learning **JavaScript and Linux **
+- 📖 I’m currently learning **Systems Design, Cloud Architecture, Linux, and Bootstrap**
 
-- 💬 Ask me about **Azure, Python, C# and MySQL PostgreSQL,  **
+- 🌱 I’m also learning related and unrelated tech skills like SQL, Python, API and a few others.
+
+- 💬 Ask me about **Azure, Python, C#, JavaScript and MySQL   **
 
 
 <h3 align="left">Connect with me:</h3>
