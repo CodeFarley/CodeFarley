@@ -20,7 +20,7 @@
 
 - 🏡  **UK** 
 
-- 🔭 I’m currently working on **#TheUltimateAPIChallenge**
+- 🔭 I’m currently working on my project portfolio (currently offline due to being under construction) to showcase my coding skills to potential employers and in the process of revamping my GitHub profile
 
 - 📖 I’m currently learning **JavaScript and Linux **
 
